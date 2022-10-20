@@ -1,0 +1,15 @@
+C:\Users\overw\c# test\wk5coding\bin\Debug\net6.0\wk5coding.exe
+C:\Users\overw\c# test\wk5coding\bin\Debug\net6.0\wk5coding.deps.json
+C:\Users\overw\c# test\wk5coding\bin\Debug\net6.0\wk5coding.runtimeconfig.json
+C:\Users\overw\c# test\wk5coding\bin\Debug\net6.0\wk5coding.dll
+C:\Users\overw\c# test\wk5coding\bin\Debug\net6.0\wk5coding.pdb
+C:\Users\overw\c# test\wk5coding\obj\Debug\net6.0\wk5coding.csproj.AssemblyReference.cache
+C:\Users\overw\c# test\wk5coding\obj\Debug\net6.0\wk5coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\overw\c# test\wk5coding\obj\Debug\net6.0\wk5coding.AssemblyInfoInputs.cache
+C:\Users\overw\c# test\wk5coding\obj\Debug\net6.0\wk5coding.AssemblyInfo.cs
+C:\Users\overw\c# test\wk5coding\obj\Debug\net6.0\wk5coding.csproj.CoreCompileInputs.cache
+C:\Users\overw\c# test\wk5coding\obj\Debug\net6.0\wk5coding.dll
+C:\Users\overw\c# test\wk5coding\obj\Debug\net6.0\refint\wk5coding.dll
+C:\Users\overw\c# test\wk5coding\obj\Debug\net6.0\wk5coding.pdb
+C:\Users\overw\c# test\wk5coding\obj\Debug\net6.0\wk5coding.genruntimeconfig.cache
+C:\Users\overw\c# test\wk5coding\obj\Debug\net6.0\ref\wk5coding.dll
